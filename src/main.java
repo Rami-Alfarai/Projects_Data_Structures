@@ -68,7 +68,7 @@ public class main extends javax.swing.JFrame {
         list.setText("المصفوفات");
 
         list.addChangeListener(new javax.swing.event.ChangeListener() {
-            
+
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
                 listStateChanged(evt);
             }
@@ -80,7 +80,8 @@ public class main extends javax.swing.JFrame {
         });
 
         queue.setBackground(new java.awt.Color(102, 255, 102));
-        queue.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
+        queue.setFont(new java.awt.Font("Segoe UI", 1, 24));
+         // NOI18N
         queue.setText("الطابور");
         queue.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
