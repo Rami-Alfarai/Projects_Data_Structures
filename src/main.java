@@ -13,7 +13,7 @@ public class main extends javax.swing.JFrame {
     public main() {
         
         initComponents();
-        
+
         
     }
 
@@ -23,6 +23,7 @@ public class main extends javax.swing.JFrame {
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
+
         jLabel1 = new javax.swing.JLabel();
         stack = new javax.swing.JButton();
         list = new javax.swing.JButton();
