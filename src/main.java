@@ -248,10 +248,11 @@ public class main extends javax.swing.JFrame {
         s1.setVisible(true);
 
         s1.setLocationRelativeTo(s1);
-        
+
     }//GEN-LAST:event_stackActionPerformed
 
-    private void queueActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_queueActionPerformed
+    private void queueActionPerformed(java.awt.event.ActionEvent evt) {//GE
+    // N-FIRST:event_queueActionPerformed
         // TODO add your handling code here:
         Queue_GUI gui=new Queue_GUI();
         
