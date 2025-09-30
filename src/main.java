@@ -160,8 +160,9 @@ public class main extends javax.swing.JFrame {
                 .addGap(295, 295, 295))
         );
         jPanel1Layout.setVerticalGroup(
-            
+
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(14, 14, 14)
                 .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)
