@@ -125,8 +125,9 @@ public class main extends javax.swing.JFrame {
         jPanel1.setLayout(jPanel1Layout);
 
         jPanel1Layout.setHorizontalGroup(
-            
+
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(30, 30, 30)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
