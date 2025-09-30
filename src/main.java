@@ -83,6 +83,7 @@ public class main extends javax.swing.JFrame {
         queue.setFont(new java.awt.Font("Segoe UI", 1, 24));
          // NOI18N
         queue.setText("الطابور");
+        
         queue.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 queueActionPerformed(evt);
