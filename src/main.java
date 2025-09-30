@@ -255,9 +255,10 @@ public class main extends javax.swing.JFrame {
     // N-FIRST:event_queueActionPerformed
         // TODO add your handling code here:
         Queue_GUI gui=new Queue_GUI();
-        
+
         
         gui.setVisible(true);
+        
 
     }//GEN-LAST:event_queueActionPerformed
 
