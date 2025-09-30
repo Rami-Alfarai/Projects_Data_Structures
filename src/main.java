@@ -339,8 +339,9 @@ public class main extends javax.swing.JFrame {
     private javax.swing.JButton linked_list;
 
     private javax.swing.JButton list;
-    
+
     private javax.swing.JButton queue;
+    
     private javax.swing.JButton stack;
     // End of variables declaration//GEN-END:variables
 }
