@@ -85,8 +85,9 @@ public class main extends javax.swing.JFrame {
         queue.setText("الطابور");
 
         queue.addActionListener(new java.awt.event.ActionListener() {
-            
+
             public void actionPerformed(java.awt.event.ActionEvent evt) {
+                
                 queueActionPerformed(evt);
             }
         });
