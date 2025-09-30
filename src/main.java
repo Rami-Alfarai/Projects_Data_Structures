@@ -184,7 +184,7 @@ public class main extends javax.swing.JFrame {
                     .addComponent(queue, javax.swing.GroupLayout.PREFERRED_SIZE, 72, javax.swing.GroupLayout.PREFERRED_SIZE)
 
                     .addComponent(linked_list, javax.swing.GroupLayout.PREFERRED_SIZE, 72, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    
+
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 73, Short.MAX_VALUE)
 
                 .addComponent(exit, javax.swing.GroupLayout.PREFERRED_SIZE, 72, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -192,6 +192,7 @@ public class main extends javax.swing.JFrame {
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+        
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
