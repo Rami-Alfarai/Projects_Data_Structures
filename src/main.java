@@ -217,11 +217,12 @@ public class main extends javax.swing.JFrame {
 
                 .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 
-                
+
                 .addContainerGap())
         );
 
         pack();
+        
     }// </editor-fold>//GEN-END:initComponents
 
     private void listStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_listStateChanged
