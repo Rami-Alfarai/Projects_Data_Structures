@@ -55,16 +55,20 @@ public class main extends javax.swing.JFrame {
         stack.setText("المكدس");
 
         stack.addActionListener(new java.awt.event.ActionListener() {
-            
+
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 stackActionPerformed(evt);
             }
         });
 
         list.setBackground(new java.awt.Color(51, 255, 255));
+
         list.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
+
         list.setText("المصفوفات");
+
         list.addChangeListener(new javax.swing.event.ChangeListener() {
+            
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
                 listStateChanged(evt);
             }
