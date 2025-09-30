@@ -235,11 +235,13 @@ public class main extends javax.swing.JFrame {
     // N-FIRST:event_listActionPerformed
         // TODO add your handling code here:
          insert t= new insert();
-         
+
          t.add_delete_ofarray();
+
     }//GEN-LAST:event_listActionPerformed
 
-    private void stackActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_stackActionPerformed
+    private void stackActionPerformed(java.awt.event.ActionEvent evt) {//
+    // GEN-FIRST:event_stackActionPerformed
         // TODO add your handling code here:
         stack_GUI s1 = new stack_GUI();
         s1.setVisible(true);
