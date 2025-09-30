@@ -33,10 +33,11 @@ public class main extends javax.swing.JFrame {
         queue = new javax.swing.JButton();
 
         linked_list = new javax.swing.JButton();
-        
+
         exit = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        
 
         jPanel1.setBackground(java.awt.Color.pink);
 
