@@ -231,13 +231,14 @@ public class main extends javax.swing.JFrame {
       
     }//GEN-LAST:event_listStateChanged
 
-    private void listActionPerformed(java.awt.event.ActionEvent evt) {//GE
+    private void listActionPerformed(java.awt.event.ActionEvent evt)
+     {//GE
     // N-FIRST:event_listActionPerformed
         // TODO add your handling code here:
          insert t= new insert();
 
          t.add_delete_ofarray();
-         
+
 
     }//GEN-LAST:event_listActionPerformed
 
