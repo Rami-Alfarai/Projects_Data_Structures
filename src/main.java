@@ -258,11 +258,12 @@ public class main extends javax.swing.JFrame {
 
         
         gui.setVisible(true);
-        
+
 
     }//GEN-LAST:event_queueActionPerformed
 
-    private void linked_listActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_linked_listActionPerformed
+    private void linked_listActionPerformed(java.awt.event.ActionEvent evt) {//G
+    // EN-FIRST:event_linked_listActionPerformed
         // TODO add your handling code here:
         gui q=new gui();
         q.setVisible(true);
