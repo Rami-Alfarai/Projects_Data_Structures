@@ -222,10 +222,11 @@ public class main extends javax.swing.JFrame {
         );
 
         pack();
-        
+
     }// </editor-fold>//GEN-END:initComponents
 
-    private void listStateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_listStateChanged
+    private void listStateChanged(javax.swing.event.ChangeEvent evt) {//GE
+    // N-FIRST:event_listStateChanged
         // TODO add your handling code here:
       
     }//GEN-LAST:event_listStateChanged
