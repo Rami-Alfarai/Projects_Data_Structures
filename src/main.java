@@ -113,8 +113,9 @@ public class main extends javax.swing.JFrame {
         exit.setText("خروج");
 
         exit.addActionListener(new java.awt.event.ActionListener() {
-            
+
             public void actionPerformed(java.awt.event.ActionEvent evt) {
+                
                 exitActionPerformed(evt);
             }
         });
