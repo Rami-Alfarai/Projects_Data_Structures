@@ -46,13 +46,16 @@ public class main extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
 
         jLabel1.setForeground(new java.awt.Color(51, 51, 255));
-        
+
         jLabel1.setText("مشروع هياكل البيانات");
 
         stack.setBackground(new java.awt.Color(102, 255, 102));
+
         stack.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
         stack.setText("المكدس");
+
         stack.addActionListener(new java.awt.event.ActionListener() {
+            
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 stackActionPerformed(evt);
             }
