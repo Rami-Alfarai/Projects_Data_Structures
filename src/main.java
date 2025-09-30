@@ -279,6 +279,7 @@ public class main extends javax.swing.JFrame {
      {//GEN-FIRST:event_exitActionPerformed
         // TODO add your handling code here:
         System.exit(0);
+        
     }//GEN-LAST:event_exitActionPerformed
 
     /**
