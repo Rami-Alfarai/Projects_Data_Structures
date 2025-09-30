@@ -322,7 +322,7 @@ public class main extends javax.swing.JFrame {
         /* Create and display the form */
         
         java.awt.EventQueue.invokeLater(new Runnable() {
-            
+
             public void run() {
                 new main().setVisible(true);
             }
@@ -331,6 +331,7 @@ public class main extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton exit;
+    
     private javax.swing.JLabel jLabel1;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JButton linked_list;
