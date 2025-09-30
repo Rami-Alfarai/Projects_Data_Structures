@@ -270,12 +270,13 @@ public class main extends javax.swing.JFrame {
         q.setVisible(true);
 
         q.setLocationRelativeTo(q);
-        
+
       
         
     }//GEN-LAST:event_linked_listActionPerformed
 
-    private void exitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitActionPerformed
+    private void exitActionPerformed(java.awt.event.ActionEvent evt)
+     {//GEN-FIRST:event_exitActionPerformed
         // TODO add your handling code here:
         System.exit(0);
     }//GEN-LAST:event_exitActionPerformed
