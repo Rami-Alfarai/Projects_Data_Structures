@@ -87,13 +87,15 @@ public class main extends javax.swing.JFrame {
         queue.addActionListener(new java.awt.event.ActionListener() {
 
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                
+
                 queueActionPerformed(evt);
             }
         });
 
         linked_list.setBackground(new java.awt.Color(0, 255, 255));
-        linked_list.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
+
+        linked_list.setFont(new java.awt.Font("Segoe UI", 1, 24)); 
+        // NOI18N
         linked_list.setText("القائمة الموصولة");
         linked_list.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
