@@ -31,8 +31,9 @@ public class main extends javax.swing.JFrame {
         list = new javax.swing.JButton();
 
         queue = new javax.swing.JButton();
-        
+
         linked_list = new javax.swing.JButton();
+        
         exit = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
