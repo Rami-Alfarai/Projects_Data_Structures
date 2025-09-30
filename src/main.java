@@ -25,8 +25,9 @@ public class main extends javax.swing.JFrame {
         jPanel1 = new javax.swing.JPanel();
 
         jLabel1 = new javax.swing.JLabel();
-        
+
         stack = new javax.swing.JButton();
+        
         list = new javax.swing.JButton();
         queue = new javax.swing.JButton();
         linked_list = new javax.swing.JButton();
