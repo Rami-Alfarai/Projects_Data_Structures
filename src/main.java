@@ -244,6 +244,7 @@ public class main extends javax.swing.JFrame {
     // GEN-FIRST:event_stackActionPerformed
         // TODO add your handling code here:
         stack_GUI s1 = new stack_GUI();
+        
         s1.setVisible(true);
         s1.setLocationRelativeTo(s1);
     }//GEN-LAST:event_stackActionPerformed
