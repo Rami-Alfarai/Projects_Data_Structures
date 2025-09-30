@@ -40,11 +40,13 @@ public class main extends javax.swing.JFrame {
 
 
         jPanel1.setBackground(java.awt.Color.pink);
-        
+
 
         jLabel1.setBackground(javax.swing.UIManager.getDefaults().getColor("Actions.Blue"));
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
+
         jLabel1.setForeground(new java.awt.Color(51, 51, 255));
+        
         jLabel1.setText("مشروع هياكل البيانات");
 
         stack.setBackground(new java.awt.Color(102, 255, 102));
