@@ -237,6 +237,7 @@ public class main extends javax.swing.JFrame {
          insert t= new insert();
 
          t.add_delete_ofarray();
+         
 
     }//GEN-LAST:event_listActionPerformed
 
@@ -343,6 +344,6 @@ public class main extends javax.swing.JFrame {
     private javax.swing.JButton queue;
 
     private javax.swing.JButton stack;
-    
+
     // End of variables declaration//GEN-END:variables
 }
