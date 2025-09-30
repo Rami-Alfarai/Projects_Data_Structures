@@ -333,8 +333,9 @@ public class main extends javax.swing.JFrame {
     private javax.swing.JButton exit;
 
     private javax.swing.JLabel jLabel1;
-    
+
     private javax.swing.JPanel jPanel1;
+    
     private javax.swing.JButton linked_list;
     private javax.swing.JButton list;
     private javax.swing.JButton queue;
