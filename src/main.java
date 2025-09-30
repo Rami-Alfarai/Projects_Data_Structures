@@ -99,8 +99,9 @@ public class main extends javax.swing.JFrame {
         linked_list.setText("القائمة الموصولة");
 
         linked_list.addActionListener(new java.awt.event.ActionListener() {
-            
+
             public void actionPerformed(java.awt.event.ActionEvent evt) {
+                
                 linked_listActionPerformed(evt);
             }
         });
