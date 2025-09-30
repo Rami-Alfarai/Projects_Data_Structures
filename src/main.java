@@ -37,9 +37,10 @@ public class main extends javax.swing.JFrame {
         exit = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        
+
 
         jPanel1.setBackground(java.awt.Color.pink);
+        
 
         jLabel1.setBackground(javax.swing.UIManager.getDefaults().getColor("Actions.Blue"));
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
