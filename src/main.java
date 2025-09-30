@@ -159,6 +159,7 @@ public class main extends javax.swing.JFrame {
 
                 .addGap(295, 295, 295))
         );
+        
         jPanel1Layout.setVerticalGroup(
 
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
