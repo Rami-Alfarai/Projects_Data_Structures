@@ -107,8 +107,9 @@ public class main extends javax.swing.JFrame {
         });
 
         exit.setBackground(new java.awt.Color(255, 51, 102));
-        
-        exit.setFont(new java.awt.Font("Segoe UI", 1, 24)); // NOI18N
+
+        exit.setFont(new java.awt.Font("Segoe UI", 1, 24));
+         // NOI18N
         exit.setText("خروج");
         exit.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
