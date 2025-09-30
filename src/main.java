@@ -313,6 +313,7 @@ public class main extends javax.swing.JFrame {
 
             java.util.logging.Logger.getLogger(main.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } 
+
         catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(main.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
@@ -321,6 +322,7 @@ public class main extends javax.swing.JFrame {
         /* Create and display the form */
         
         java.awt.EventQueue.invokeLater(new Runnable() {
+            
             public void run() {
                 new main().setVisible(true);
             }
