@@ -266,6 +266,7 @@ public class main extends javax.swing.JFrame {
     // EN-FIRST:event_linked_listActionPerformed
         // TODO add your handling code here:
         gui q=new gui();
+        
         q.setVisible(true);
         q.setLocationRelativeTo(q);
       
