@@ -235,6 +235,7 @@ public class main extends javax.swing.JFrame {
     // N-FIRST:event_listActionPerformed
         // TODO add your handling code here:
          insert t= new insert();
+         
          t.add_delete_ofarray();
     }//GEN-LAST:event_listActionPerformed
 
