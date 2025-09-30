@@ -268,8 +268,9 @@ public class main extends javax.swing.JFrame {
         gui q=new gui();
 
         q.setVisible(true);
-        
+
         q.setLocationRelativeTo(q);
+        
       
         
     }//GEN-LAST:event_linked_listActionPerformed
